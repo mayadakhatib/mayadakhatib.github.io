@@ -1,4 +1,5 @@
 # About me 
+I'm Mayada, a Data Scientist and ML practitioner. I share my knowledge and learning journey with people thorugh LinkedIn and Medium. Throughout my career I have relied heavily on self education and discipline, and I'm here to help you do the same and launch your dream job in AI!
 
 # Work Experience
 
