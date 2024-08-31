@@ -1,5 +1,3 @@
-# Senior Data Scientist
-
 ## About me 
 
 ### Education
