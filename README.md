@@ -1,8 +1,6 @@
-# Mayada Khatib
+# About me 
 
-## About me 
-
-## Work Experience
+# Work Experience
 
 **Senior Data Scientist at SAP - current**
 - contributing to AI team of experts
@@ -27,13 +25,13 @@
     - Geospatial Analysis and clustering for Credit risk assesment
 
 
-## Blogs
+# Blogs
 
 [Medium](https://medium.com/@mayadakhatib)  
 [LinkedIn](linkedin.com/in/mayada-khatib-099995191) 
 
-## Education
+# Education
 
 BSC in Automation Engineering @The Technical University of Sofia [2016-2020]
 
-## Projects
+# Projects
