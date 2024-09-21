@@ -7,6 +7,7 @@ I'm Mayada, a Data Scientist and ML practitioner. I share my knowledge and learn
 - contributing to AI team of experts
 - working on projects that help boost productivity in other departments in the company
 - applying newest SOTA models and solutions like RAG to different use cases
+- Mentoring colleagues at hackathons 
 
 **Data Scientist at Fourth**
   - main projects: Sales and products forecasting for restaurants and fast food chains in UK, US and Asia. Forecasts were used for cost optimization and ordering optimization, as well as inventory planning and capacity planning.
@@ -15,7 +16,7 @@ I'm Mayada, a Data Scientist and ML practitioner. I share my knowledge and learn
     
 **Data Engineer ar Fourth**
 - Develope ETLs for the ML usecases using Pipelines in Azure Synapse, Pyspark and Azure Datalake
-- Fetch daily sales data fror over 100 different clients, which is then processed and passed to the Forecasting solution.
+- Fetch daily sales data for over 100 different clients, which is then processed and passed to the Forecasting solution.
 
 **Data Scientist at Anatlytics for Everyone** 
   - Worked on a variety of projects:
@@ -34,5 +35,12 @@ I'm Mayada, a Data Scientist and ML practitioner. I share my knowledge and learn
 # Education
 
 BSC in Automation Engineering @The Technical University of Sofia [2016-2020]
+Skilles and expertise gained:
+- Control systems - covered all types of control: I, D, PI, PD and PID Control, fuzzy control systems
+- Signal preprocessing using high and low-pass fitlers, Fourier transformations and more.
+- Logic programming in prolog
+- Ladder logic for PLC
+- Optmization algorithms used in automation engineering
+- System identification - White, Grey and Black-box identification
 
 # Projects
